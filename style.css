@@ -16,7 +16,8 @@ body {
   margin: 3rem auto;
 }
 .letter {
-  font-size: 2rem;
+    font-size: 2rem;
+    font-family: "Dawning of a New Day", cursive;
   line-height: 1.874;
   padding: 2.75rem 4rem 2rem 2rem;
   color: midnightblue;
@@ -30,7 +31,8 @@ body {
 }
 
 .wide-west {
-  text-shadow: 0 1px 0 #d7ccc8;
+    text-shadow: 0 1px 0 #d7ccc8;
+    font-family: "Ewert";
   text-align: center;
   height: 600px;
   background: linear-gradient(BurlyWood, Peru 30%, Peru 70%, Tan);
@@ -65,6 +67,7 @@ body {
   padding: 0.75rem 0px 0;
 }
 .screenplay {
+    font-family: "Special Elite";
   background: LavenderBlush;
   box-shadow: inset 0 0 30px -20px rgba(50, 0, 0, 0.4);
   padding-top: 5rem;
